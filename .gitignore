@@ -1,0 +1,2 @@
+model/face_recognition_model_vgg16.h5
+model/face_recognition_model_vgg16_optimized.h5
