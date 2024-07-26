@@ -7,4 +7,6 @@
 4. Untuk meload model dengan format python jalankan load_model.ipynb
 5. Untuk meload model dengan format json gunakan folder tfjs_model
 
+### Nb. file model .h5 tidak termasuk jadi disarankan run model terlebih dahulu
+
 ## -Kurotsuki
